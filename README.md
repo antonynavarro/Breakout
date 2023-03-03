@@ -1,4 +1,4 @@
-# Breakout, un jeu de réaction
+# Python Breakout
 
 Classic Breakout game made in python
 
